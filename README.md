@@ -28,7 +28,7 @@ npm install
 
     connection string format:
    ```plaintext
-   postgres://postgres:Vinzz@123@hlocalost:5432/BE-Task
+   postgres://postgres:Vinzz@123@localhost:5432/BE-Task
    ```
 
 ### Running the Server
